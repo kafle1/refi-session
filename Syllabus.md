@@ -4,7 +4,7 @@
 
 - Introduction
 - Syllabus & Resources
-- Installation of dev tools (Git, VS Code, Node, MongoDB, Postman/Insomnia)
+- Installation of dev tools (Git, VS Code, Node, MongoDB, MySQL/PosgreSQL, Postman/Insomnia)
 - Text Editor, IDE Setup
 - Command Prompt(Command line)
 - Chrome Extensions (Grepper, JSON Viewer)
