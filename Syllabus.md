@@ -13,6 +13,7 @@
 
 ## Day 01
 
+- MERN & Internet Introduction
 - Introduction to HTML 
 - HTML Tag Types
 - Tags & Attributes

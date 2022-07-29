@@ -1,2 +1,19 @@
-How Web works: https://academind.com/tutorials/how-the-web-works
 
+
+Git: https://git-scm.com/downloads
+
+VS Code: https://code.visualstudio.com/download
+
+Node: https://nodejs.org/en/
+
+MongoDB: https://www.mongodb.com/try/download/community
+
+Insomnia: https://insomnia.rest/download
+
+VS Code Extensions:
+Check the images in this folder
+
+Chrome Extensions:
+Grepper: https://chrome.google.com/webstore/detail/grepper/amaaokahonnfjjemodnpmeenfpnnbkco
+Pesticide: https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi
+JSON Viewer: https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh
