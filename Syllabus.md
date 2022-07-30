@@ -38,11 +38,12 @@
 
 ## Day 04
 
-- JavaScript Intermediate + Advance ( Function, Arrow Function, .this, Scope, Array & Array Methods, setTimeOut(), setInterval(), Math, Random, Try Catch, ES6 (String.includes(), For/Of), Aync JS )
+- JavaScript Intermediate + Advance ( Function, Arrow Function, .this, Scope, Array & Array Methods, setTimeOut(), setInterval(), Math, Random, Try Catch, ES6 (String.includes(), For/Of) )
 - Project 1 - Love Calculator (JS)
 
 ## Day 05
 
+- JavaScript Advance : Async JS, Fetch API, Array Destructuring, Array Spread, Object Destructuring, LocalStorage
 - Project 2 - Scissor Paper Rock (JS)
 - DOM Manipulation
 - Project 3 - TODO Application (HTML/CSS/JS)
