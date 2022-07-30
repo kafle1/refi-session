@@ -1,0 +1,17 @@
+Function: https://www.w3schools.com/js/js_function_definition.asp
+
+Scope: https://www.w3schools.com/js/js_scope.asp
+
+Arrow Function: https://www.w3schools.com/js/js_arrow_function.asp
+
+.this: https://www.w3schools.com/js/js_this.asp
+
+Array Methods: https://www.w3schools.com/js/js_array_methods.asp
+
+Math: https://www.w3schools.com/js/js_math.asp
+
+ES6: https://www.w3schools.com/js/js_es6.asp
+
+Try Catch: https://www.w3schools.com/js/js_errors.asp
+
+Async JS: https://www.w3schools.com/js/js_asynchronous.asp

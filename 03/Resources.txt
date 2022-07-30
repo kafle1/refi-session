@@ -1,0 +1,17 @@
+JavaScript Reference: https://www.w3schools.com/jsref/default.asp
+
+
+Datatypes: https://www.w3schools.com/js/js_datatypes.asp
+
+Operators: https://www.w3schools.com/js/js_operators.asp
+
+Switch: https://www.w3schools.com/js/js_switch.asp
+
+String Methods: https://www.w3schools.com/js/js_string_methods.asp
+
+Date: https://www.w3schools.com/js/js_dates.asp
+
+Number Methods: https://www.w3schools.com/js/js_number_methods.asp
+
+
+JSON: https://www.w3schools.com/js/js_json.asp

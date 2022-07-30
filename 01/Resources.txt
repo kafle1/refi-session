@@ -1,5 +1,8 @@
 How Web works: https://academind.com/tutorials/how-the-web-works
 
+Added Extension:
+Error Lens
+
 HTML Reference: https://www.w3schools.com/tags/default.asp
 
 HTML, CSS, JS Reference Youtube Channel: https://www.youtube.com/c/CodingNepal

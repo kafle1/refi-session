@@ -1,5 +1,9 @@
 
 CSS Reference: https://www.w3schools.com/cssref/default.asp
 
+Meta Tags: https://www.w3schools.com/tags/tag_meta.asp
+
+Git & Github Blog: https://theinfodocx.blogspot.com/2021/08/guide-to-git-and-github.html
+
 CSS FlexBox: https://www.facebook.com/poorcoders/posts/pfbid02wLTpcyTD9Uv24EapsDxGfcEjkCxMmW2Y3Mj9EinLTEMw7QoVSFyAs5ZwFavsoieel
 
