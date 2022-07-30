@@ -23,7 +23,7 @@
 
 ## Day 02
 
-- Day 00 & 01 Revision (Command Line + Adding CSS) + Feedback
+- Day 00 & 01 Revision (Command Line + Adding CSS + MERN & Internet Introduction)
 - Selectors(Space, Comma), Class VS ID
 - CSS (Box Model, Flexbox, Text, Alignment, Hover, Media Query)
 - Meta tags in HTML
