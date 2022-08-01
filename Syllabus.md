@@ -28,13 +28,13 @@
 - CSS (Box Model, Flexbox, Text, Alignment, Hover, Media Query)
 - Meta tags in HTML
 - Github and Repository Creation
-- Project 0 - Portfolio Website (HTML/CSS)
 
 ## Day 03
 
 - Bootstrap 5
-- JavaScript Basics ( Datatypes, Variables and Constant, Casing , Objects, Operators, Conditionals, Loop, String Methods, Date, Number Methods )
-- JSON
+- Project 0 - Portfolio Website (HTML/CSS/Bootstrap)
+- JavaScript Basics ( `Datatypes`, Variables and Constant, Casing , Objects, `Operators`, Conditionals, Loop, `String Methods`, `Date`, `Number Methods` )
+- `JSON`
 
 ## Day 04
 

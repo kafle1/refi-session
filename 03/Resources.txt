@@ -1,6 +1,8 @@
 JavaScript Reference: https://www.w3schools.com/jsref/default.asp
 
 
+Bootstrap: https://getbootstrap.com/
+
 Datatypes: https://www.w3schools.com/js/js_datatypes.asp
 
 Operators: https://www.w3schools.com/js/js_operators.asp
@@ -14,4 +16,4 @@ Date: https://www.w3schools.com/js/js_dates.asp
 Number Methods: https://www.w3schools.com/js/js_number_methods.asp
 
 
-JSON: https://www.w3schools.com/js/js_json.asp
+JSON: https://www.w3schools.com/js/js_json.asp / https://jsonguide.technologychannel.org/
