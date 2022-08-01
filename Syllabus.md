@@ -33,7 +33,7 @@
 
 - Bootstrap 5
 - Project 0 - Portfolio Website (HTML/CSS/Bootstrap)
-- JavaScript Basics ( `Datatypes`, Variables and Constant, Casing , Objects, `Operators`, Conditionals, Loop, `String Methods`, `Date`, `Number Methods` )
+- JavaScript Basics ( `Datatypes`, Variables and Constant, Casing , Objects, `Operators`, Conditionals, Loop, `String Methods`, Templete Literals, `Date`, `Number Methods` )
 - `JSON`
 
 ## Day 04
