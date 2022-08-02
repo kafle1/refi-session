@@ -15,3 +15,7 @@ ES6: https://www.w3schools.com/js/js_es6.asp
 Try Catch: https://www.w3schools.com/js/js_errors.asp
 
 Async JS: https://www.w3schools.com/js/js_asynchronous.asp
+
+
+
+JSON: https://www.w3schools.com/js/js_json.asp / https://jsonguide.technologychannel.org/

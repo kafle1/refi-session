@@ -34,17 +34,19 @@
 - Bootstrap 5
 - Project 0 - Portfolio Website (HTML/CSS/Bootstrap)
 - JavaScript Basics ( `Datatypes`, Variables and Constant, Casing , Objects, `Operators`, Conditionals, Loop, `String Methods`, Templete Literals, `Date`, `Number Methods` )
-- `JSON`
 
 ## Day 04
 
-- JavaScript Intermediate + Advance ( Function, Arrow Function, .this, Scope, Array & Array Methods, setTimeOut(), setInterval(), Math, Random, Try Catch, ES6 (String.includes(), For/Of) )
-- Project 1 - Love Calculator (JS)
+- `JSON`
+- JavaScript Intermediate + Advance ( Challenge 1,`Function`, `Arrow Function`, `.this`, `Scope`, Array & `Array Methods`, setTimeOut(), setInterval(), `Math`, Random, `Try Catch`, `ES6` (String.includes(), For/Of) )
 
 ## Day 05
 
+- Project 1 - Love Calculator (JS)
 - JavaScript Advance : Async JS, Fetch API, Array Destructuring, Array Spread, Object Destructuring, LocalStorage
 - Project 2 - Scissor Paper Rock (JS)
+
+## Day 06
 - DOM Manipulation
 - Project 3 - TODO Application (HTML/CSS/JS)
 - Deploy our Project 3 live on the internet

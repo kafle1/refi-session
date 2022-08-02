@@ -7,21 +7,18 @@
 
 // let a = 5;
 // a = 7;
-
 // console.log(a);
 
 // const b = 6;
 // // b = 5;
-
 // console.log(b);
 
+
 // functionToAddNumber => camel casing
-
 // function-to-add-number => kebab casing
-
 // function_to_add_number => snake casing
-
 // FUNCTION_TO_ADD_NUMBER => contant casing
+
 
 // Objects
 // const myDetail = {
