@@ -1,4 +1,4 @@
-# MERN Session Syllabus
+# React-Firebase Session Syllabus
 
 ## Day 00
 
@@ -38,15 +38,18 @@
 ## Day 04
 
 - `JSON`
-- JavaScript Intermediate + Advance ( Challenge 1,`Function`, `Arrow Function`, `.this`, `Scope`, Array & `Array Methods`, setTimeOut(), setInterval(), `Math`, Random, `Try Catch`, `ES6` (String.includes(), For/Of) )
+- JavaScript Intermediate + Advance ( Challenge 1,`Function`, `Arrow Function`, `.this`, `Scope`, Array & `Array Methods`, setTimeOut(), setInterval(), `Math`, Random, `Try Catch` )
 
 ## Day 05
 
 - Project 1 - Love Calculator (JS)
-- JavaScript Advance : Async JS, Fetch API, Array Destructuring, Array Spread, Object Destructuring, LocalStorage
-- Project 2 - Scissor Paper Rock (JS)
+- JSON, `ES6` (String.includes(), For/Of)
+- JavaScript Advance : `Array Map`, `Array Filter`, `Promise`, `Async JS`, `Fetch API`, `Array Destructuring`, `Spread`, `Ternary Operator`,  Object Destructuring, `LocalStorage`
 
 ## Day 06
+- Project 2 - Scissor Paper Rock (JS)
 - DOM Manipulation
+
+## Day 07
 - Project 3 - TODO Application (HTML/CSS/JS)
 - Deploy our Project 3 live on the internet

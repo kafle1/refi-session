@@ -1,0 +1,20 @@
+ES6: https://www.w3schools.com/js/js_es6.asp
+
+
+Array Map: https://www.w3schools.com/jsref/jsref_map.asp
+
+Array Filter: https://www.w3schools.com/jsref/jsref_filter.asp
+
+Array forEach(): https://www.w3schools.com/jsref/jsref_foreach.asp
+
+Promise: https://www.w3schools.com/js/js_promise.asp / https://www.youtube.com/watch?v=DHvZLI7Db8E
+
+Async JS: https://www.w3schools.com/js/js_asynchronous.asp
+
+Fetch API: https://www.w3schools.com/js/js_api_fetch.asp
+
+Array Destructuring: https://www.w3schools.com/react/react_es6_destructuring.asp
+
+Ternary Operator: https://www.w3schools.com/react/react_es6_ternary.asp
+
+Local Storage: https://www.w3schools.com/jsref/prop_win_localstorage.asp
