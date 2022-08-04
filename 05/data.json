@@ -1,0 +1,8 @@
+{
+    "name" : "Niraj",
+    "age" : 25,
+    "address" : {
+        "city" : "Pune",
+        "state" : "Maharashtra"
+    }
+}

@@ -44,12 +44,17 @@
 
 - Project 1 - Love Calculator (JS)
 - JSON, `ES6` (String.includes(), For/Of)
-- JavaScript Advance : `Array Map`, `Array Filter`, `Promise`, `Async JS`, `Fetch API`, `Array Destructuring`, `Spread`, `Ternary Operator`,  Object Destructuring, `LocalStorage`
+- JavaScript Advance : `Array Map`, `Array Filter`, `Promise`, `Async JS`, `Fetch API`, `Array Destructuring`, `Ternary Operator`, Object Destructuring, `LocalStorage`
 
 ## Day 06
+
+- Problem Solving Technique / Approach (For Project 2)
 - Project 2 - Scissor Paper Rock (JS)
-- DOM Manipulation
+- `Spread`
+- DOM Manipulation (InnerHTML, Document, Grabbing Element, Form, CSS, Event and EventListner, Nodes & Collection )
 
 ## Day 07
+
+- Problem Solving Technique / Approach (For Project 3)
 - Project 3 - TODO Application (HTML/CSS/JS)
 - Deploy our Project 3 live on the internet

@@ -1,0 +1,3 @@
+Spread : https://www.w3schools.com/react/react_es6_spread.asp
+
+DOM: https://www.w3schools.com/js/js_htmldom.asp
