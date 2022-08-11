@@ -58,3 +58,10 @@
 - Problem Solving Technique / Approach (For Project 3)
 - Project 3 - TODO Application (HTML/CSS/JS)
 - Deploy our Project 3 live on the internet
+
+## Day 08
+
+- Update changes and Redeploy Project 3
+- NPM, External Libraries & Package.JSON
+- React JS Basic
+- Vite 
