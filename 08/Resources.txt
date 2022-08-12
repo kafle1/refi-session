@@ -1,5 +1,7 @@
 Deploy Website: https://www.netlify.com/
 
-https://www.npmjs.com/
-
 React: https://www.w3schools.com/react/default.asp
+
+Null, NaN and undefined:  https://stackoverflow.com/questions/50320711/what-is-the-difference-between-null-nan-and-undefined-in-javascript
+
+NPM JS: https://www.npmjs.com/

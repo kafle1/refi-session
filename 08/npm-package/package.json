@@ -1,0 +1,24 @@
+{
+  "name": "mern-session",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kafle1/mern-session.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kafle1/mern-session/issues"
+  },
+  "homepage": "https://github.com/kafle1/mern-session#readme",
+  "dependencies": {
+    "generate-password": "^1.7.0"
+  }
+}

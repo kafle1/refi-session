@@ -66,3 +66,8 @@
 - NPM, External Libraries & Package.JSON
 - React JS Basic
 - Vite 
+
+## Day 09
+
+- Revision + Styling in React
+- Challenge to create 3 100*100 boxes with different colours and generated id in it
