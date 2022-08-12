@@ -62,6 +62,7 @@
 ## Day 08
 
 - Update changes and Redeploy Project 3
+- Null, NaN, undefined
 - NPM, External Libraries & Package.JSON
 - React JS Basic
 - Vite 
