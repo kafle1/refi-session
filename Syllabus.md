@@ -65,9 +65,10 @@
 - Null, NaN, undefined
 - NPM, External Libraries & Package.JSON
 - React JS Basic
-- Vite 
+- Vite
 
 ## Day 09
 
-- Revision + Styling in React
-- Challenge to create 3 100*100 boxes with different colours and generated id in it
+- Lists , Styling in React
+- Challenge to create 3 100 X 100 boxes with different colours and generated id in it
+- Into to hooks, useState, Form
