@@ -70,5 +70,13 @@
 ## Day 09
 
 - Lists , Styling in React
-- Challenge to create 3 100 X 100 boxes with different colours and generated id in it
-- Into to hooks, useState, Form
+- Challenge: Create 3 100 X 100 boxes with different colours and generated id in it
+- Challenge: Email Validator (Vanilla JS), Scissor, Paper, Rock using prompt-sync library
+
+## Day 10
+- Into to hooks, useState, Form, useEffect
+- React router , useLocation
+- useContext, useRef
+
+## Day 11
+- Introduction to Tailwind CSS
