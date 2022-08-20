@@ -74,6 +74,7 @@
 - Challenge: Email Validator (Vanilla JS), Scissor, Paper, Rock using prompt-sync library
 
 ## Day 10
+- Challenge: Filter duplicates in array, Tip calculation and Modules in JavaScript
 - Into to hooks, useState, Form, useEffect
 - React router , useLocation
 - useContext, useRef
