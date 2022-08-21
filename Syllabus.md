@@ -79,6 +79,6 @@
 - React router , useNavigate
 
 ## Day 11
--I ntro to Global state management
+- Intro to Global state management
 - useContext, useRef
 - Introduction to Tailwind CSS
