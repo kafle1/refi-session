@@ -76,8 +76,9 @@
 ## Day 10
 - Challenge: Filter duplicates in array, Tip calculation and Modules in JavaScript
 - Into to hooks, useState, Form, useEffect
-- React router , useLocation
-- useContext, useRef
+- React router , useNavigate
 
 ## Day 11
+-I ntro to Global state management
+- useContext, useRef
 - Introduction to Tailwind CSS

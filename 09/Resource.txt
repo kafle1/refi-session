@@ -4,8 +4,3 @@ Props: https://www.w3schools.com/react/react_props.asp
 
 Styling: https://www.w3schools.com/react/react_css_styling.asp
 
-Intro to hook: https://www.w3schools.com/react/react_hooks.asp
-
-useState Hook: https://www.w3schools.com/react/react_usestate.asp
-
-Forms: https://www.w3schools.com/react/react_forms.asp
