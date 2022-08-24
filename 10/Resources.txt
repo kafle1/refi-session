@@ -3,11 +3,3 @@ Intro to hook: https://www.w3schools.com/react/react_hooks.asp
 useState Hook: https://www.w3schools.com/react/react_usestate.asp
 
 Forms: https://www.w3schools.com/react/react_forms.asp
-
-useEffect: https://www.w3schools.com/react/react_useeffect.asp
-
-React Router: https://reactrouter.com/docs/en/v6/getting-started/overview
-
-useNavigate: https://reactrouter.com/docs/en/v6/hooks/use-navigate
-
-Pass state between routes: https://gist.github.com/kafle1/dd8638a6e8eb5f24ddb42f084ddc742b

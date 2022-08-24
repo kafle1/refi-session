@@ -1,0 +1,22 @@
+1 = Create a react project using vite 
+
+2 = Install react-geolocated package from npmjs.com
+Learn more: https://www.npmjs.com/package/react-geolocated
+
+3 = Use react-geolocated package to get the latitude and longitude of the user
+
+4 = Store the lat and long in a state
+
+5 = Use useEffect and axios to get the data from weather api
+Learn more: https://openweathermap.org/api/one-call-api
+
+6 = Use this as api key to get weather data : 08ed069b528966d4eb8f8b815b5157a3
+
+7 = Store your api key in env variable
+
+8 = Check out example url where you will get the data from the api in same way
+Example URL: https://api.openweathermap.org/data/2.5/onecall?lat=27.665739&lon=85.255863&exclude=minutely,hourly,daily&appid=08ed069b528966d4eb8f8b815b5157a3
+
+9 = Use react and bootstrap to create your weather appid
+
+10 = Weather app should automatically get the users location and show the weather automatically once the user visits the site. They should be able to see these things in the app: longitude, latitude, date/time, sunrise, sunset, temperature,  humidity and weather with its description

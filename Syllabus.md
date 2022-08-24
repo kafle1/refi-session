@@ -77,6 +77,10 @@
 - Challenge: Filter duplicates in array, Tip calculation and Modules in JavaScript
 - Into to hooks, useState, Form, useEffect
 - React router , useNavigate
+- Using env variables in vite-react
+
+## Weather Project
+- Create weather app using geolocation and weather api
 
 ## Day 11
 - Intro to Global state management
