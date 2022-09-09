@@ -83,6 +83,11 @@
 - Create weather app using geolocation and weather api
 
 ## Day 11
+- Intro to Material UI
+- React Query
+- 404 React Routing
 - Intro to Global state management
 - useContext, useRef
+
+## Day 12
 - Introduction to Tailwind CSS
